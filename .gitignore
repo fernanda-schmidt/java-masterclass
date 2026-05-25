@@ -1,5 +1,4 @@
 ### IntelliJ IDEA ###
-out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
@@ -40,3 +39,6 @@ target/
 # OS files
 .DS_Store
 Thumbs.db
+
+# personal
+practice/
