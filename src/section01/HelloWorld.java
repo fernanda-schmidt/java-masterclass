@@ -2,9 +2,10 @@ package section01;
 
 public class HelloWorld {
 
-    public static void main(String[] args) {
+    static void main() {
 
         System.out.println("Hello, Java!");
+        System.out.println("Hello, World!");
 
     }
 }
