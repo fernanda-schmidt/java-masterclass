@@ -41,8 +41,8 @@ java-masterclass/
 ```
 
 ## 🚀 Progress Tracker
- - [ ] Section 01 — Introduction & Setup
- - [ ] Section 02 — Variables & Data Types
+ - ✅ Section 01 — Introduction & Setup
+ - ✅ Section 02 — Variables & Data Types
  - [ ] Section 03 — Operators & Expressions
  - [ ] Section 04 — Control Flow
  - [ ] Section 05 — Methods
