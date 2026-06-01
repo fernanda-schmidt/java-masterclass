@@ -7,11 +7,11 @@ public class Challenge02 {
 
         displayHighScorePosition(name, position);
 
-        System.out.println(calculateHighScorePosition(1500));
-        System.out.println(calculateHighScorePosition(1000));
-        System.out.println(calculateHighScorePosition(500));
-        System.out.println(calculateHighScorePosition(100));
-        System.out.println(calculateHighScorePosition(25));
+        System.out.println("Percy: " + calculateHighScorePosition(1500));
+        System.out.println("Bob: " + calculateHighScorePosition(1000));
+        System.out.println("Tim: " + calculateHighScorePosition(500));
+        System.out.println("Gilbert: " + calculateHighScorePosition(100));
+        System.out.println("James: " + calculateHighScorePosition(25));
 
     }
 
@@ -30,5 +30,4 @@ public class Challenge02 {
             return 4;
         }
     }
-
 }
