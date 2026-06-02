@@ -1,4 +1,4 @@
-package section03;
+package section02;
 
 public class MinutesToYearsDaysCalculator {
     static void main() {
