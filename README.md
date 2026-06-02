@@ -5,6 +5,7 @@ Repository dedicated to my studies and projects from the Java Masterclass course
 ## 📚 About the Course
 
 This repository contains:
+
 - Java fundamentals
 - Object-Oriented Programming (OOP)
 - Control flow and methods
@@ -41,28 +42,31 @@ java-masterclass/
 ```
 
 ## 🚀 Progress Tracker
- - ✅ Section 01 — Introduction & Setup
- - ✅ Section 02 — Variables & Data Types
- - [ ] Section 03 — Operators & Expressions
- - [ ] Section 04 — Control Flow
- - [ ] Section 05 — Methods
- - [ ] Section 06 — OOP Part 1
- - [ ] Section 07 — OOP Part 2
- - [ ] More sections coming soon...
+
+- ✅ Section 01 — Introduction & Setup
+- ✅ Section 02 — Variables & Data Types
+- ✅ Section 03 — Operators & Expressions
+- [ ] Section 04 — Control Flow
+- [ ] Section 05 — Methods
+- [ ] Section 06 — OOP Part 1
+- [ ] Section 07 — OOP Part 2
+- [ ] More sections coming soon...
 
 ## 🎯 Goals
- - Learn Java from scratch
- - Build solid OOP foundations
- - Improve problem-solving skills
- - Develop clean coding habits
- - Create a strong backend development foundation
+
+- Learn Java from scratch
+- Build solid OOP foundations
+- Improve problem-solving skills
+- Develop clean coding habits
+- Create a strong backend development foundation
 
 ## 📖 Notes
 
 This repository may contain:
- - Practice exercises
- - Course challenges
- - Personal notes
- - Small experiments and tests
 
-###  ⭐ Follow my journey as I learn Java and software development!
+- Practice exercises
+- Course challenges
+- Personal notes
+- Small experiments and tests
+
+### ⭐ Follow my journey as I learn Java and software development!
