@@ -2,7 +2,7 @@ package section02;
 
 public class SecondsAndMinutesChallenge {
     static void main() {
-        System.out.println(getDurationString(5000));
+        System.out.println(getDurationString(3945));
     }
 
     public static String getDurationString(int seconds) {
@@ -22,7 +22,7 @@ public class SecondsAndMinutesChallenge {
         int hours = minutes / 60;
         int remainingMinutes = minutes % 60;
 
-        return hours + "H" + remainingMinutes + "min" + seconds + "s";
+        return hours + "h " + remainingMinutes + "min " + seconds + "s ";
 
     }
 }
