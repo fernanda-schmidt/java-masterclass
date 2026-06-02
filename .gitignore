@@ -41,4 +41,6 @@ target/
 Thumbs.db
 
 # personal
-practice/
+src/practice/
+*.practice/
+/src/practice/
