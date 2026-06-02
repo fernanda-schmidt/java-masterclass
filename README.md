@@ -44,12 +44,18 @@ java-masterclass/
 ## 🚀 Progress Tracker
 
 - ✅ Section 01 — Introduction & Setup
-- ✅ Section 02 — Variables & Data Types
-- ✅ Section 03 — Operators & Expressions
-- [ ] Section 04 — Control Flow
-- [ ] Section 05 — Methods
-- [ ] Section 06 — OOP Part 1
-- [ ] Section 07 — OOP Part 2
+- ✅ Section 02 — Expressions, Statements, Code Blocks
+- ✅ Section 03 — Conditional Logic, Loops, Interactive JAVA Apps
+- [ ] Section 04 — OOP: Classes & Inheritance
+- [ ] Section 05 — Advanced OOP: Compositions, Encapsulation
+- [ ] Section 06 — Advanced Arrays: Single & Multi-Dimensional
+- [ ] Section 07 — Expand Polymorphism & JAVA Hierarchies
+- [ ] Section 08 — Java Generics: Bounds, Comparators
+- [ ] Section 09 — Nested Classes, Local Types, Anonymous Classes
+- [ ] Section 10 — Java Lambdas: Expressions, Interfaces, Method
+- [ ] Section 11 — Java Collections: Framework, Lists, Sets, Maps
+- [ ] Section 12 — Mutability, Immutability, Final Keyword
+- [ ] Section 13 — Java Streams: Operations, Pipelines, Sources
 - [ ] More sections coming soon...
 
 ## 🎯 Goals
