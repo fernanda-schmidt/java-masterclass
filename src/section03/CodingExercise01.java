@@ -1,6 +1,6 @@
 package section03;
 
-public class printNumberInWord {
+public class CodingExercise01 {
     static void main() {
         printNumberInWord(0);
         printNumberInWord(1);
