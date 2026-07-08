@@ -1,4 +1,4 @@
-package section03;
+package section05;
 
 public class SwitchChallenge {
     static void main() {

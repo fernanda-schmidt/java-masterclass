@@ -33,9 +33,9 @@ The goal of this repository is to document my learning journey while building a 
 java-masterclass/
 │
 ├── src/
-│   ├── section01/
-│   ├── section02/
-│   ├── section03/
+│   ├── section04/
+│   ├── section06/
+│   ├── section05/
 │   └── ...
 │
 ├── notes/

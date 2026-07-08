@@ -1,4 +1,4 @@
-package section03;
+package section05;
 
 public class CodingExercise01 {
     static void main() {

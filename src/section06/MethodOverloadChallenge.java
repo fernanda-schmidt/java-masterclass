@@ -1,4 +1,4 @@
-package section02;
+package section06;
 
 public class MethodOverloadChallenge {
     static void main() {

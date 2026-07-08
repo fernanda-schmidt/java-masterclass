@@ -1,4 +1,4 @@
-package section01;
+package section04;
 
 public class SecondClass {
     public static void main(String[] args) {
