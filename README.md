@@ -1,7 +1,12 @@
 # Java Masterclass ☕
 
-Repository dedicated to my studies and projects from the Java Masterclass course by Tim Buchalka on Udemy.
+> A structured repository documenting my journey learning Java, from the fundamentals to backend development.
 
+![Java](https://img.shields.io/badge/Java-21_LTS-orange)
+![Status](https://img.shields.io/badge/Status-In_Progress-blue)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ_IDEA-black)
+
+---
 ## 📚 About the Course
 
 This repository contains:
