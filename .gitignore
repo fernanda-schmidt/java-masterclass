@@ -44,3 +44,5 @@ Thumbs.db
 src/practice/
 *.practice/
 /src/practice/
+*.docs/
+docs/
